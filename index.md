@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-# Header 1
+# Jinn is an Infrastructure-as-a-Service platform. 
 
-Jinn is an Infrastructure-as-a-Service platform. Decentralized infrastructure is as important as decentralized finance. in fact, one is meaningless without the other. When something is important enough, you do it even if the odds are not in your favor.
+Decentralized infrastructure is as important as decentralized finance. in fact, one is meaningless without the other. When something is important enough, you do it even if the odds are not in your favor.
 
 
-## Header 2
+## hardware & Software equirements:
 
 > Jinn currently only supports ubuntu 20.04 
 > You also need KVM and Qemu installed on your machine.
