@@ -12,7 +12,7 @@ Jinn is an Infrastructure-as-a-Service platform. Decentralized infrastructure is
 
 > Jinn currently only supports ubuntu 20.04 
 > You also need KVM and Qemu installed on your machine.
-> 
+> To check if your machine supports KVM run the following commands:
 
 ### Header 3
 
@@ -34,7 +34,7 @@ end
 #### Header 4
 
 *   
-*   T
+*   
 *   
 
 ##### Header 5
